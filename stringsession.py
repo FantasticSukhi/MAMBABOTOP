@@ -2,8 +2,8 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 print("")
-print("""Welcome To MafiaBot String Session\nGenerator By @H1M4N5HU0P\n\n""")
-print("""Special Thanks To My Buddy Respective HellBot\nOwner @Kraken_The_BadASS\n\n""")
+print("""Welcome To MambaBot String Session\nGenerator By @CREATIVITY_MAMBA\n\n""")
+print("""Special Thanks To My Team -> MambaBot\nOwner @CREACTIVITY_MAMBA\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
 
 API_KEY = input("API_ID:  ")
@@ -28,7 +28,7 @@ while True:
     except:
         print("")
         print(
-            "Wrong phone number \n make sure its with correct country code. Example : +918925534834! Kindly Retry"
+            "Wrong phone number \n make sure its with correct country code. Example : +910123456789! Kindly Retry"
         )
         print("")
         continue
